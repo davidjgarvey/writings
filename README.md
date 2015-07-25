@@ -1,6 +1,6 @@
 # Blog posts
 This detailed guide to writing guest posts really works.
 Guest-posting is the single most important strategy for growing your blog readership and platform
-Get a unique content and get [published](https://iguestblog.com/kjbekkelund/writings/tree/master/published)
+Get a unique content and get published <a href="https://iguestblog.com/">here</a>
 
 
